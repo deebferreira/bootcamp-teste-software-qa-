@@ -4,7 +4,7 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 ## 📚 Conteúdo do Curso
 
 ### 1️⃣ Introdução
-[Introdução ao Teste de Software](introducao/introducao.md)
+- [Introdução ao Teste de Software](introducao/introducao.md)
 
 ### 2️⃣ Como o software é desenvolvido
 - [Modelos do Ciclo de Vida de Desenvolvimento de Software](desenvolvimento-software/ciclo-de-vida.md)
