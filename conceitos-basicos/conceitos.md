@@ -58,8 +58,6 @@ Nesse caso, não se analisa apenas o requisito, mas se o software:
 
 4. **Encontrar defeitos e falhas**  
 
----
-
 #### Diferença entre Defeito e Falha
 
 - **Falha**  
