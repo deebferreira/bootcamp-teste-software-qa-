@@ -41,7 +41,6 @@ O **modelo cascata** é um modelo sequencial composto por seis fases principais:
 - Pouca flexibilidade para mudanças  
 
 ### Diagrama do Modelo Cascata
-![Modelo Cascata](imagens/modelo-cascata.png)
 <img width="500" height="384" alt="modelo-cascata" src="https://github.com/user-attachments/assets/8f9796c7-e5df-4f65-b781-d1b2517e7df8" />
 
 ---
@@ -68,7 +67,6 @@ Essas etapas são amplamente utilizadas em:
 - Testes de Sistema  
 
 ### Diagrama do Modelo em V
-![Modelo em V](imagens/modelo-em-v.png)
 <img width="1180" height="695" alt="modelo-em-v" src="https://github.com/user-attachments/assets/410647d9-188c-420d-b217-da4716d8d190" />
 
 ---
