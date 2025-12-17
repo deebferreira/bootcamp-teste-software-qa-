@@ -9,3 +9,6 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 ### 2️⃣ Como o software é desenvolvido
 - [Modelos do Ciclo de Vida de Desenvolvimento de Software](desenvolvimento-software/ciclo-de-vida.md)
 
+### 3️⃣ Conceitos Básicos de Teste de Software
+- [Conceitos Fundamentais](conceitos-basicos/conceitos.md)
+
