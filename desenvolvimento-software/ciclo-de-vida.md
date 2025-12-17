@@ -84,3 +84,80 @@ Define o design de componentes ou módulos específicos do sistema.
 Durante essas etapas são realizados:
 - Testes de Unidade  
 - Testes de Integração
+
+## Planejamento de Testes no Modelo em V
+
+Diferentemente do modelo cascata, que é estritamente sequencial, no **modelo em V** é possível planejar as etapas de teste de duas maneiras:
+
+- **Planejamento dos testes:**  
+  É possível iniciar pelo **teste de aceitação** e avançar até o **teste de unidade**, focando no planejamento antecipado das atividades de teste.
+
+- **Execução dos testes:**  
+  Quando é necessário executar os testes à medida que o sistema é desenvolvido, inicia-se pelo **teste de unidade** e avança-se até o **teste de aceitação**, fornecendo feedback contínuo sobre a qualidade do sistema.
+
+Esse modelo é considerado mais eficiente do que o modelo cascata no que diz respeito aos testes, pois eles são aplicados **desde o início do desenvolvimento**.  
+Ainda assim, ele é classificado como um **modelo sequencial**, uma vez que o cliente não participa ativamente do processo.
+
+---
+
+## Desenvolvimento Ágil
+
+No **desenvolvimento ágil**, o software é entregue de forma **incremental e iterativa**, com entregas frequentes ao cliente. Isso permite o recebimento de **feedback constante e antecipado**.
+
+Além disso, são realizadas entregas iterativas para que o cliente já consiga utilizar o produto. Esse conceito é conhecido como **MVP (Minimum Viable Product)**, ou **Produto Mínimo Viável**, também chamado de **produto potencialmente lançável**.
+
+---
+
+## Diferenças entre os Modelos de Desenvolvimento
+
+### Modelo Sequencial
+A maioria dos requisitos é definida desde o início do projeto e permanece fixa, com pouca ou nenhuma possibilidade de alteração.  
+O projeto costuma ser simples e possui pouca interação com o cliente durante o processo.
+
+**Exemplos:**  
+- Modelo Cascata  
+- Modelo em V  
+
+**Desvantagens:**
+- Pouca flexibilidade  
+- Erros são identificados tardiamente, geralmente na fase de testes  
+- Não lida bem com mudanças de requisitos  
+
+---
+
+### Modelo Iterativo
+O sistema é desenvolvido em **ciclos repetidos (iterações)**, permitindo um desenvolvimento evolutivo.  
+Há **feedback constante do cliente** e possibilidade de ajustes frequentes ao longo do projeto.
+
+**Exemplos:**  
+- Prototipação  
+- RUP  
+- Scrum (parcialmente)  
+
+**Desvantagens:**
+- Pode gerar retrabalho  
+- Exige maior comunicação entre as partes  
+- Pode sair do escopo se não houver controle adequado  
+
+---
+
+### Modelo Incremental
+Geralmente utilizado em conjunto com o modelo iterativo.  
+O sistema é entregue **por partes (incrementos)**, sendo que cada incremento adiciona novas funcionalidades utilizáveis.
+
+**Exemplos:**  
+- Scrum  
+- Agile  
+
+**Vantagens:**
+- Entregas frequentes de software funcional desde o início  
+- O cliente percebe valor rapidamente  
+
+**Quando usar:**
+- Projetos grandes  
+- Quando é importante entregar rapidamente  
+- Ambientes competitivos  
+
+**Desvantagens:**
+- Requer bom planejamento  
+- A integração entre incrementos pode ser complexa  
