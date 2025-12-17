@@ -1,4 +1,4 @@
-### O que é Teste de Software
+## O que é Teste de Software
 
 O teste de software tem como objetivo evitar que usuários tenham experiências ruins em **sites**, **plataformas** e **aplicativos**.
 
@@ -9,13 +9,13 @@ Os testes garantem a **qualidade do produto** e ajudam a **reduzir riscos**.
 
 ---
 
-### Diferenças entre Teste Dinâmico e Teste Estático
+## Diferenças entre Teste Dinâmico e Teste Estático
 
-#### Teste Dinâmico
+### Teste Dinâmico
 O teste dinâmico requer algum tipo de processamento.  
 Nesse tipo de teste, são fornecidos dados de entrada ao sistema, ele executa determinados processos e, em seguida, produz um resultado (saída).
 
-#### Teste Estático
+### Teste Estático
 O teste estático é realizado de forma antecipada e proporciona **maior economia de tempo e dinheiro**.
 
 Ele não envolve a execução do sistema e não possui entrada nem saída de dados.
@@ -30,12 +30,12 @@ Ele não envolve a execução do sistema e não possui entrada nem saída de dad
 
 ---
 
-### Verificação e Validação
+## Verificação e Validação
 
-#### Verificação (ponto de vista do desenvolvedor)
+### Verificação (ponto de vista do desenvolvedor)
 A verificação tem como objetivo garantir que **o que está descrito nos requisitos** foi corretamente implementado no sistema.
 
-#### Validação (ponto de vista do cliente)
+### Validação (ponto de vista do cliente)
 A validação avalia o sistema sob a ótica do usuário final.  
 Nesse caso, não se analisa apenas o requisito, mas se o software:
 - Atende às necessidades do usuário  
@@ -45,7 +45,7 @@ Nesse caso, não se analisa apenas o requisito, mas se o software:
 
 ---
 
-### Objetivos do Teste de Software
+## Objetivos do Teste de Software
 
 1. **Avaliação do produto de trabalho**  
    Consiste na análise da documentação criada ao longo do desenvolvimento, como código, requisitos e testes, que compõem o produto final.
@@ -58,7 +58,7 @@ Nesse caso, não se analisa apenas o requisito, mas se o software:
 
 4. **Encontrar defeitos e falhas**  
 
-#### Diferença entre Defeito e Falha
+### Diferença entre Defeito e Falha
 
 - **Falha**  
   É o efeito visível de um defeito no software. O sistema se comporta de forma incorreta devido a um problema existente no código.
