@@ -60,7 +60,7 @@ Nesse caso, não se analisa apenas o requisito, mas se o software:
 
 ---
 
-### Diferença entre Defeito e Falha
+# Diferença entre Defeito e Falha
 
 - **Falha**  
   É o efeito visível de um defeito no software. O sistema se comporta de forma incorreta devido a um problema existente no código.
