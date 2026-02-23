@@ -227,14 +227,6 @@ Diferente do teste funcional, aqui o foco está em "como" o sistema se comporta,
 
 ## 5. Testes importantes no dia a dia
 
-### Teste de Regressão
-
-O teste de regressão é realizado para garantir que **alterações feitas no sistema não afetaram funcionalidades que já estavam funcionando corretamente**.
-
-Ou seja, mesmo partes do sistema que **não foram modificadas diretamente** devem ser testadas, pois podem ter sido impactadas indiretamente pelas correções.
-
----
-
 ### Reteste (Teste de Confirmação)
 
 O reteste consiste em executar novamente um caso de teste que anteriormente falhou, após a correção do defeito.
@@ -242,6 +234,14 @@ O reteste consiste em executar novamente um caso de teste que anteriormente falh
 O objetivo é confirmar que o problema foi realmente resolvido. Diferente do teste de regressão, o reteste foca especificamente no defeito corrigido.
 
 Se o defeito não ocorrer mais, o problema é considerado **resolvido e encerrado**.
+
+---
+
+### Teste de Regressão
+
+O teste de regressão é realizado para garantir que **alterações feitas no sistema não afetaram funcionalidades que já estavam funcionando corretamente**.
+
+Ou seja, mesmo partes do sistema que **não foram modificadas diretamente** devem ser testadas, pois podem ter sido impactadas indiretamente pelas correções.
 
 ---
 
