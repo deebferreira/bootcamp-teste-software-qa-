@@ -8,6 +8,8 @@
 
 ### Cenários Inválidos
 
-<img width="1078" height="815" alt="Captura de tela 2026-02-23 120633" src="https://github.com/user-attachments/assets/70489353-3fbd-4ded-bc2a-3b46133a0ace" />
+<img width="1080" height="818" alt="Captura de tela 2026-02-23 123507" src="https://github.com/user-attachments/assets/bf8bc5d5-a6a7-45ab-a233-a2b62f59621f" />
 
-<img width="1081" height="817" alt="Captura de tela 2026-02-23 120706" src="https://github.com/user-attachments/assets/3aebe0ed-369c-4088-b812-f59726d80e61" />
+<img width="1076" height="817" alt="Captura de tela 2026-02-23 123543" src="https://github.com/user-attachments/assets/d9e18d2c-4cb9-4f81-b793-288e6c1880e7" />
+
+
