@@ -12,3 +12,8 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 ### 3️⃣ Conceitos Básicos de Teste de Software
 - [Conceitos Fundamentais](conceitos-basicos/conceitos.md)
 
+### 4️⃣ Criação de Cenários de Teste
+- [Cenários de Teste](criacao-de-cenarios-de-teste/cenarios-de-teste.md)
+
+
+
