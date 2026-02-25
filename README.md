@@ -13,8 +13,8 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 - [Conceitos Fundamentais](conceitos-basicos/conceitos.md)
 
 ### 4️⃣ Criação de Cenários de Teste
-- [Cenários de Teste](criacao-de-cenarios-de-teste/cenarios-de-teste.md)
+- [Como criar cenários de Testes](criacao-de-cenarios-de-teste/cenarios-de-teste.md)
 - [Organização de cenários de Testes](criacao-de-cenarios-de-teste/organizacao-de-cenarios-de-teste-com-trello.md)
-- [Evidências de Testes](criacao-de-cenarios-de-teste/evidencias-de-teste.md)
+- [Cenário de Teste - Facebook](criacao-de-cenarios-de-teste/cenarios-de-teste-facebook.md)
 
 
