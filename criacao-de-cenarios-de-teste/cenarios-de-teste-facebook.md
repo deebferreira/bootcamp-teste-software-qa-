@@ -1,4 +1,4 @@
-## Evidências de Teste (Trello)
+## Cenários de Teste - Facebook (Trello)
 
 > Exemplo real de organização de cenários de teste utilizando Trello
 
