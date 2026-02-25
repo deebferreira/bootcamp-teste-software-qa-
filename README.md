@@ -14,7 +14,7 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 
 ### 4️⃣ Criação de Cenários de Teste
 - [Como Criar Cenários de Testes](criacao-de-cenarios-de-teste/como-criar-cenarios-de-teste.md)
-- [Organização de cenários de Testes](criacao-de-cenarios-de-teste/organizacao-de-cenarios-de-teste-com-trello.md)
+- [Organização de Cenários de Testes](criacao-de-cenarios-de-teste/organizacao-de-cenarios-de-teste-com-trello.md)
 - [Cenário de Teste - Facebook](criacao-de-cenarios-de-teste/cenarios-de-teste-facebook.md)
 
 
