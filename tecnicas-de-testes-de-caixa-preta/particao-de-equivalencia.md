@@ -120,4 +120,4 @@ Essa técnica é muito utilizada em **testes funcionais**, principalmente quando
 
 A Partição de Equivalência **não testa os limites exatos dos valores**.
 
-Para isso, utilizamos outra técnica
+Para isso, utilizamos outra técnica.
