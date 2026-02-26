@@ -16,6 +16,7 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 - [Como Criar Cenários de Testes](criacao-de-cenarios-de-teste/como-criar-cenarios-de-teste.md)
 - [Organização de Cenários de Testes](criacao-de-cenarios-de-teste/organizacao-de-cenarios-de-teste-com-trello.md)
 - [Cenário de Teste - Facebook](criacao-de-cenarios-de-teste/cenarios-de-teste-facebook.md)
+- [Cenário de Teste - Udemy (Pesquisa)](criacao-de-cenarios-de-teste/cenario-de-teste-udemy-pesquisa.md)
 
 ### 5️⃣ Técnicas de Teste (Caixa Preta)
 - [Partição de Equivalência](tecnicas-de-testes-de-caixa-preta/particao-de-equivalencia.md)
