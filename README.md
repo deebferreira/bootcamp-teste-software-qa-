@@ -20,4 +20,4 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 
 ### 5️⃣ Técnicas de Teste (Caixa Preta)
 - [Partição de Equivalência](tecnicas-de-testes-de-caixa-preta/particao-de-equivalencia.md)
-
+- [Análise de Valor de Limite](tecnicas-de-testes-de-caixa-preta/analise-de-valor-de-limite.md)
