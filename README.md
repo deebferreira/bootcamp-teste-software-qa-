@@ -18,5 +18,5 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 - [Cenário de Teste - Facebook](criacao-de-cenarios-de-teste/cenarios-de-teste-facebook.md)
 
 ### 5️⃣ Técnicas de Teste (Caixa Preta)
-- [Partição de Equivalência](tecnicas-de-teste/particao-de-equivalencia.md)
+- [Partição de Equivalência](tecnicas-de-teste-de-caixa-preta/particao-de-equivalencia.md)
 
