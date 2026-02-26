@@ -17,4 +17,6 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 - [Organização de Cenários de Testes](criacao-de-cenarios-de-teste/organizacao-de-cenarios-de-teste-com-trello.md)
 - [Cenário de Teste - Facebook](criacao-de-cenarios-de-teste/cenarios-de-teste-facebook.md)
 
+### 5️⃣ Técnicas de Teste (Caixa Preta)
+- [Partição de Equivalência](tecnicas-de-teste/particao-de-equivalencia.md)
 
