@@ -23,3 +23,4 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 - [Análise de Valor de Limite](05-tecnicas-de-testes-de-caixa-preta/02-analise-de-valor-de-limite.md)
 - [Teste com Tabela de Decisão](05-tecnicas-de-testes-de-caixa-preta/03-teste-com-tabela-de-decisao.md)
 - [Teste de Transição de Estado](05-tecnicas-de-testes-de-caixa-preta/04-teste-de-transicao-de-estado.md)
+- [Teste de Pares](05-tecnicas-de-testes-de-caixa-preta/05-teste-de-pares.md)
