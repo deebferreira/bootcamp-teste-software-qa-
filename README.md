@@ -4,22 +4,22 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 ## 📚 Conteúdo do Curso
 
 ### 1️⃣ Introdução
-- [Introdução ao Teste de Software](introducao/introducao.md)
+- [Introdução ao Teste de Software](01-introducao/introducao.md)
 
 ### 2️⃣ Como o software é desenvolvido
-- [Modelos do Ciclo de Vida de Desenvolvimento de Software](desenvolvimento-software/ciclo-de-vida.md)
+- [Modelos do Ciclo de Vida de Desenvolvimento de Software](02-desenvolvimento-de-software/ciclo-de-vida.md)
 
 ### 3️⃣ Conceitos Básicos de Teste de Software
-- [Conceitos Fundamentais](conceitos-basicos/conceitos.md)
+- [Conceitos Fundamentais](03-conceitos-basicos-de-teste-de-software/conceitos.md)
 
 ### 4️⃣ Criação de Cenários de Teste
-- [Como Criar Cenários de Testes](criacao-de-cenarios-de-teste/como-criar-cenarios-de-teste.md)
-- [Organização de Cenários de Testes](criacao-de-cenarios-de-teste/organizacao-de-cenarios-de-teste-com-trello.md)
-- [Cenário de Teste - Facebook](criacao-de-cenarios-de-teste/cenarios-de-teste-facebook.md)
-- [Cenário de Teste - Udemy (Pesquisa)](criacao-de-cenarios-de-teste/cenario-de-teste-udemy-pesquisa.md)
+- [Como Criar Cenários de Testes](04-criacao-de-cenarios-de-testes/01-como-criar-cenarios-de-teste.md)
+- [Organização de Cenários de Testes](04-criacao-de-cenarios-de-testes/02-organizacao-de-cenarios-de-teste-com-trello.md)
+- [Cenário de Teste - Facebook](04-criacao-de-cenarios-de-testes/03-cenarios-de-teste-facebook.md)
+- [Cenário de Teste - Udemy (Pesquisa)](04-criacao-de-cenarios-de-testes/04-cenario-de-teste-udemy-pesquisa.md)
 
 ### 5️⃣ Técnicas de Teste (Caixa Preta)
-- [Partição de Equivalência](tecnicas-de-testes-de-caixa-preta/particao-de-equivalencia.md)
-- [Análise de Valor de Limite](tecnicas-de-testes-de-caixa-preta/analise-de-valor-de-limite.md)
-- [Teste com Tabela de Decisão](tecnicas-de-testes-de-caixa-preta/teste-com-tabela-de-decisao.md)
-- [Teste de Transição de Estado](tecnicas-de-testes-de-caixa-preta/teste-de-transicao-de-estado.md)
+- [Partição de Equivalência](05-tecnicas-de-testes-de-caixa-preta/01-particao-de-equivalencia.md)
+- [Análise de Valor de Limite](05-tecnicas-de-testes-de-caixa-preta/02-analise-de-valor-de-limite.md)
+- [Teste com Tabela de Decisão](05-tecnicas-de-testes-de-caixa-preta/03-teste-com-tabela-de-decisao.md)
+- [Teste de Transição de Estado](05-tecnicas-de-testes-de-caixa-preta/04-teste-de-transicao-de-estado.md)
