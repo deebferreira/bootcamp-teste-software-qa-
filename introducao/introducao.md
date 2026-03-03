@@ -1,111 +1,142 @@
-## 1º Passo – Papéis no Projeto
+# 🧭 Introdução ao Desenvolvimento de Software
 
-A primeira pessoa mais importante em um projeto é o **engenheiro de requisitos**, que também pode ser chamado de **analista de negócios** ou, principalmente, **Product Owner (PO)**.
+Antes de aprofundar em testes de software, é essencial entender **como um software é desenvolvido** e quais são os principais papéis envolvidos nesse processo.
 
-Essa pessoa é responsável por coletar os requisitos dos clientes e repassá-los para a equipe de desenvolvimento.
+O teste não é uma atividade isolada — ele faz parte de um ciclo maior que envolve requisitos, design, desenvolvimento e entrega.
 
-### Documentos de Requisitos
+---
 
-O Product Owner é responsável por redigir mais de um documento, sendo os principais:
+# 🧩 1. Papéis em um Projeto de Software
 
-- **SRS (Software Requirements Specification)** – Especificação de Requisitos de Software  
-- **Documento de Requisitos de Negócio**
+Um projeto de software envolve diferentes profissionais, cada um com responsabilidades específicas.
 
-Nesses documentos são descritas:
-- As metas de negócio  
-- Os objetivos que precisam ser alcançados pelo sistema  
+## 📌 Product Owner (PO) / Analista de Negócios
 
-### Metodologias Ágeis
+O Product Owner é responsável por:
 
-O Product Owner faz parte de uma **equipe ágil**.
+- Coletar requisitos com o cliente
+- Definir prioridades
+- Traduzir necessidades de negócio em funcionalidades
 
-Os requisitos escritos pelo Product Owner são chamados de **Histórias de Usuário**.
+Em ambientes ágeis, os requisitos geralmente são descritos como:
 
-### Papel do Testador (QA)
+- **Histórias de Usuário**
+- **Critérios de Aceitação**
+- Itens do **Backlog do Produto**
 
-O papel do testador nesse contexto é:
-- Revisar as histórias de usuário  
-- Identificar ambiguidades, inconsistências ou falta de informações  
-- Utilizar essas histórias como base para a criação dos **casos de teste**
+Em modelos mais tradicionais, podem existir documentos como:
 
-### Backlog do Produto
+- SRS (Software Requirements Specification)
+- Documento de Requisitos de Negócio
 
-Quando as histórias de usuário são definidas, elas são introduzidas no **backlog do produto**, onde ficam organizadas e priorizadas para desenvolvimento e testes.
+---
 
-## 2º Passo – Design e Experiência do Usuário
+## 📌 QA (Quality Assurance)
 
-Outro papel importante no desenvolvimento de software é o do **UI Designer** e do **UX Designer**.
+O QA atua desde as fases iniciais do projeto.
 
-Após a coleta dos requisitos, eles são revisados pela equipe de testadores. Quaisquer ambiguidades são esclarecidas, garantindo que todos entendam claramente o que será desenvolvido. O próximo passo é a criação do design.
+Principais responsabilidades:
 
-Inicialmente, podem ser criados **wireframes** ou até mesmo **esboços em papel**. Esses materiais são apresentados ao **Product Owner** e ao **cliente**, que fornecem feedback sobre a proposta, aprovando ou solicitando ajustes.
+- Revisar histórias de usuário
+- Identificar ambiguidades ou inconsistências
+- Criar cenários e casos de teste
+- Validar funcionalidades desenvolvidas
+- Garantir que os requisitos foram atendidos
 
-Os wireframes têm como objetivo **economizar tempo e orçamento**, permitindo validar ideias antes do desenvolvimento.
+O QA não apenas testa — ele **previne defeitos** desde o início.
 
-### Diferença entre UI e UX
+---
 
-**UI (User Interface)** – Interface do usuário.  
-Refere-se às telas que o usuário visualiza no aplicativo, como botões, cores, layout e elementos visuais.
+## 📌 UI e UX Designer
 
-**UX (User Experience)** – Experiência do usuário.  
-Está relacionada à forma como o usuário percebe e avalia sua experiência ao utilizar o aplicativo, considerando aspectos como:
-- Facilidade de uso  
-- Utilidade da aplicação  
-- Número de passos para realizar uma tarefa  
-- Clareza do fluxo de navegação  
-- Complexidade do processo  
+Após a definição dos requisitos, inicia-se a fase de design.
 
-### Desenvolvimento
+### UI (User Interface)
+Responsável pelos elementos visuais:
+- Botões
+- Layout
+- Cores
+- Tipografia
 
-O desenvolvimento do software pode ser realizado por diferentes perfis de profissionais, como:
-- Desenvolvedores **Front-end**
-- Desenvolvedores **Back-end**
-- Desenvolvedores **Mobile**
+### UX (User Experience)
+Responsável pela experiência do usuário:
+- Facilidade de uso
+- Clareza do fluxo
+- Quantidade de passos para executar tarefas
+- Usabilidade geral
 
-## 3º Passo – Início do Desenvolvimento
+Antes do desenvolvimento, podem ser criados:
 
-No início do desenvolvimento do software, existem três papéis principais:
+- Wireframes
+- Protótipos
+- Esboços
 
-### Desenvolvedor Front-end
-É o profissional responsável por transformar o design da interface do usuário em código com o qual o usuário pode interagir.  
-Utiliza ferramentas e tecnologias como **HTML**, **CSS** e **JavaScript**.
+Esses artefatos ajudam a validar ideias e reduzir retrabalho.
 
-### Desenvolvedor Back-end
-É responsável por implementar as regras de negócio e as ações que ocorrem por trás das telas e botões, fazendo com que tudo funcione corretamente.
+---
+
+## 📌 Desenvolvedores
+
+O desenvolvimento pode ser dividido em diferentes áreas:
+
+### 🔹 Front-end
+Responsável pela interface com a qual o usuário interage.
+
+Tecnologias comuns:
+- HTML
+- CSS
+- JavaScript
+
+### 🔹 Back-end
+Responsável pelas regras de negócio e lógica do sistema.
 
 Exemplos:
-- Adicionar produtos em um e-commerce  
-- Adicionar cursos em uma plataforma educacional  
+- Processamento de pagamentos
+- Cadastro de produtos
+- Gerenciamento de dados
 
-Essas funcionalidades geralmente são gerenciadas por meio de um **painel administrativo** ou **dashboard**, onde são executadas as ações solicitadas pelos usuários.
+### 🔹 Mobile
+Responsável pelo desenvolvimento de aplicativos Android ou iOS.
 
-### Atuação do Testador (QA)
-Após o desenvolvimento do **front-end**, são realizados testes nessa camada.  
-O mesmo processo se repete após o desenvolvimento do **back-end**.
+Pode ser:
+- Nativo (específico para cada plataforma)
+- Híbrido (uma base para múltiplas plataformas)
 
-Após essas etapas, o ideal é realizar o **teste de integração**, garantindo que front-end e back-end funcionem corretamente juntos.
+---
 
-### Desenvolvedor Mobile
-É o profissional responsável pelo desenvolvimento de aplicativos móveis, sejam eles para **Android** ou **iOS**.
+## 📌 Scrum Master / Project Manager
 
-Existem diferentes tipos de aplicativos:
-- **Aplicativos híbridos** – funcionam em mais de uma plataforma  
-- **Aplicativos nativos** – desenvolvidos especificamente para uma plataforma, como Android ou iOS  
+### Scrum Master
+- Garante que o processo ágil seja seguido
+- Remove impedimentos
+- Apoia o time
 
-### Gestão do Projeto
-Outros papéis importantes no processo de desenvolvimento são:
-- **Project Manager**
-- **Scrum Master**
+### Project Manager
+- Planeja e acompanha o andamento do projeto
+- Garante prazos e entregas
 
-### Gerenciamento e Metodologias Ágeis
+---
 
-O **gerente de projetos (Project Manager)** atua de forma semelhante a outros gerentes de projetos, sendo responsável pelo planejamento, acompanhamento e entrega do projeto dentro dos prazos e objetivos definidos.
+# 🔄 2. Fluxo Simplificado do Desenvolvimento
 
-Quando se trata de uma **equipe ágil**, a liderança da equipe conta com a atuação do **Scrum Master**. Esse profissional é responsável por:
-- Atuar como um **defensor da equipe**
-- Remover impedimentos que atrapalham o andamento do trabalho
-- Incentivar o time a alcançar os objetivos definidos
-- Garantir que cada etapa do processo ágil seja seguida corretamente
+De forma geral, o ciclo de desenvolvimento segue este fluxo:
+
+1. Levantamento de requisitos  
+2. Criação do design (UI/UX)  
+3. Desenvolvimento (Front-end / Back-end / Mobile)  
+4. Testes  
+5. Integração  
+6. Entrega  
+
+O QA pode atuar desde o levantamento de requisitos até a validação final.
+
+---
+
+# 🎯 Conclusão
+
+Entender o processo de desenvolvimento é fundamental para o profissional de QA.
+
+O teste de software não acontece isoladamente — ele está integrado ao ciclo de vida do produto, garantindo que cada etapa entregue valor e qualidade ao usuário final.
 
 ---
 
