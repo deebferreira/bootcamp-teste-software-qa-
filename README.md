@@ -21,3 +21,5 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 ### 5️⃣ Técnicas de Teste (Caixa Preta)
 - [Partição de Equivalência](tecnicas-de-testes-de-caixa-preta/particao-de-equivalencia.md)
 - [Análise de Valor de Limite](tecnicas-de-testes-de-caixa-preta/analise-de-valor-de-limite.md)
+- [Teste com Tabela de Decisão](tecnicas-de-testes-de-caixa-preta/teste-com-tabela-de-decisao.md)
+- [Teste de Transição de Estado](tecnicas-de-testes-de-caixa-preta/teste-de-transicao-de-estado.md)
