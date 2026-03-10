@@ -24,3 +24,7 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 - [Teste com Tabela de Decisão](05-tecnicas-de-testes-de-caixa-preta/03-teste-com-tabela-de-decisao.md)
 - [Teste de Transição de Estado](05-tecnicas-de-testes-de-caixa-preta/04-teste-de-transicao-de-estado.md)
 - [Teste de Pares](05-tecnicas-de-testes-de-caixa-preta/05-teste-de-pares.md)
+
+### 6️⃣ Casos de Testes
+- [O Que São Casos de Teste](06-como-escrever-casos-de-testes/06-o-que-são-casos-de-teste.md)
+- [Como Esrecever Casos de Teste](06-como-escrever-casos-de-testes/02-escrevendo-casos-de-teste.md)
