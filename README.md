@@ -26,5 +26,5 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 - [Teste de Pares](05-tecnicas-de-testes-de-caixa-preta/05-teste-de-pares.md)
 
 ### 6️⃣ Casos de Testes
-- [O Que São Casos de Teste](06-como-escrever-casos-de-testes/06-o-que-são-casos-de-teste.md)
+- [O Que São Casos de Teste](06-como-escrever-casos-de-testes/01-o-que-são-casos-de-teste.md)
 - [Como Esrecever Casos de Teste](06-como-escrever-casos-de-testes/02-escrevendo-casos-de-teste.md)
