@@ -28,3 +28,4 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 ### 6️⃣ Casos de Testes
 - [O Que São Casos de Teste](06-como-escrever-casos-de-testes/01-o-que-são-casos-de-teste.md)
 - [Como Esrecever Casos de Teste](06-como-escrever-casos-de-testes/02-escrevendo-casos-de-teste.md)
+- [Caso de Teste - Facebook (Google Sheets)](06-como-escrever-casos-de-testes/03-caso-de-teste-facebook-google-sheets.md)
