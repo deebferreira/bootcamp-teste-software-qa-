@@ -9,7 +9,7 @@ Com o Zephyr Scale é possível:
 - Organizar testes em **pastas**
 - Criar **ciclos de teste**
 - Executar testes e registrar **PASS / FAIL**
-- Criar **BDD tests**
+- Criar testes utilizando **BDD**
 - Utilizar **datasets**
 - Gerar **relatórios de execução**
 - Integrar testes com **histórias e tarefas do Jira**
@@ -24,19 +24,19 @@ Para utilizar o Zephyr Scale é necessário instalar o plugin no Jira.
 
 ### 1️⃣ Acessar o Atlassian Marketplace
 
-No Jira:
+No Jira, navegue até:
 
 ```
 Settings → Apps → Find new apps
 ```
 
-ou acessar diretamente o **Atlassian Marketplace**.
+ou acesse diretamente o **Atlassian Marketplace**.
 
 ---
 
 ### 2️⃣ Buscar pelo plugin
 
-Pesquisar por:
+Pesquise por:
 
 ```
 Zephyr Scale Test Management for Jira
@@ -102,9 +102,7 @@ Título do teste.
 
 Exemplo:
 
-```
-Validar login com e-mail e senha válidos
-```
+- Validar login com e-mail e senha válidos.
 
 ---
 
@@ -114,9 +112,7 @@ Objetivo do teste.
 
 Exemplo:
 
-```
-Garantir que o usuário consiga acessar o sistema utilizando credenciais válidas.
-```
+- Garantir que o usuário consiga acessar o sistema utilizando credenciais válidas.
 
 ---
 
@@ -126,9 +122,7 @@ Condições necessárias antes da execução do teste.
 
 Exemplo:
 
-```
-Usuário deve possuir uma conta registrada no sistema.
-```
+- O usuário deve possuir uma conta registrada no sistema.
 
 ---
 
@@ -169,15 +163,11 @@ Criar Ciclo de Teste
 
 **Name**
 
-```
 Login Tests – Sprint 1
-```
 
 **Objective**
 
-```
-Executar testes relacionados à funcionalidade de login.
-```
+- Executar testes relacionados à funcionalidade de login.
 
 ---
 
@@ -195,7 +185,7 @@ Selecione os testes que deseja executar.
 
 ### Executar testes
 
-Durante a execução você pode marcar:
+Durante a execução você poderá marcar o resultado do teste como:
 
 ```
 PASS
@@ -243,7 +233,7 @@ Then o sistema autentica o usuário com sucesso
 
 ### Vantagens do BDD
 
-- Facilita comunicação entre **QA, desenvolvedores e stakeholders**
+- Facilita a comunicação entre **QA, desenvolvedores e stakeholders**
 - Testes ficam mais **legíveis**
 - Permite integração com ferramentas de automação
 
@@ -266,13 +256,13 @@ Exemplo de dataset:
 
 ### Utilização em um teste
 
-Em vez de escrever valores fixos:
+Em vez de escrever valores fixos como:
 
 ```
 Inserir email user@email.com
 ```
 
-Você pode usar:
+Você pode utilizar variáveis:
 
 ```
 Inserir email {email}
@@ -287,11 +277,9 @@ Assim o teste pode ser executado com **diferentes combinações de dados**.
 
 O Zephyr permite criar vários testes rapidamente através de **importação**.
 
-Métodos comuns:
-
 ### Importação via CSV ou Excel
 
-É possível importar planilhas contendo:
+É possível importar planilhas contendo campos como:
 
 ```
 Name
@@ -313,25 +301,23 @@ Priority
 
 # 🤖 Criando Test Scripts com IA (Reflect)
 
-O **Reflect AI** pode auxiliar na geração automática de **test scripts**.
+Ferramentas de IA podem auxiliar na geração automática de **test scripts**.
 
-Ele analisa:
+Essas ferramentas analisam:
 
 - requisitos
 - histórias de usuário
 - descrições de funcionalidades
 
-E sugere passos de teste automaticamente.
+e sugerem passos de teste automaticamente.
 
 Exemplo:
 
 História de usuário:
 
-```
-Como usuário, quero fazer login para acessar minha conta.
-```
+- Como usuário, quero fazer login para acessar minha conta.
 
-A IA pode sugerir:
+A ferramenta pode sugerir passos como:
 
 ```
 1. Acessar página de login
@@ -341,7 +327,7 @@ A IA pode sugerir:
 5. Verificar redirecionamento para dashboard
 ```
 
-Isso ajuda a acelerar a criação de testes, mas **os testes ainda devem ser revisados pelo QA**.
+Essa abordagem ajuda a acelerar a criação de testes, mas **os testes ainda devem ser revisados pelo QA**.
 
 ---
 
@@ -361,7 +347,7 @@ Zephyr → Relatórios
 
 **Test Execution Report**
 
-Mostra resultados:
+Mostra resultados como:
 
 ```
 PASS
@@ -384,7 +370,7 @@ Requisitos → Casos de Teste → Execução
 
 **Test Progress**
 
-Acompanhar progresso da execução de testes.
+Permite acompanhar o progresso da execução de testes.
 
 Exemplo:
 
@@ -405,8 +391,7 @@ O Zephyr Scale transforma o Jira em uma ferramenta completa de **gerenciamento d
 - Executar testes em **ciclos**
 - Trabalhar com **BDD**
 - Utilizar **datasets**
-- Automatizar criação de testes com **IA**
+- Criar testes de forma mais rápida com auxílio de **IA**
 - Gerar **relatórios de qualidade**
 
 Essa integração facilita a colaboração entre **QA, desenvolvedores e gestores**, garantindo maior controle sobre a qualidade do software.
-````
