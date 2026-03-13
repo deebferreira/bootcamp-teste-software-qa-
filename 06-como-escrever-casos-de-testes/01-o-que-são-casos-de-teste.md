@@ -60,7 +60,7 @@ O objetivo é garantir que o teste seja **reproduzível e padronizado**.
 
 **Pré-condição**
 
-> O usuário deve possuir um número de telefone ou e-mail válido.
+O usuário deve possuir um número de telefone ou e-mail válido.
 
 **Passos**
 
@@ -104,7 +104,7 @@ Geralmente correspondem aos **cenários de teste**.
 
 **Exemplo**
 
-> Validar cadastro de usuário com dados válidos
+Validar cadastro de usuário com dados válidos
 
 ---
 
@@ -124,5 +124,5 @@ Correspondem aos **casos de teste**.
 
 **Resultado esperado**
 
-> Usuário registrado com sucesso.
+Usuário registrado com sucesso.
 
