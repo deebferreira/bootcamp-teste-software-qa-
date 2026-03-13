@@ -20,11 +20,11 @@ Boas práticas:
 
 ### Exemplo
 
-> Verificar login com e-mail e senha válidos
+- Verificar login com e-mail e senha válidos
 
 ou
 
-> Validar cadastro de usuário com número de telefone válido
+- Validar cadastro de usuário com número de telefone válido
 
 ---
 
@@ -83,11 +83,11 @@ Como visto no **Capítulo 4 – Criação de Cenários de Teste**, o cenário de
 
 ### Exemplo
 
-> Cenário de teste: Login de usuário
+- Cenário de teste: Login de usuário
 
 ou
 
-> Cenário de teste: Cadastro de usuário
+- Cenário de teste: Cadastro de usuário
 
 ---
 
@@ -106,19 +106,15 @@ Isso pode incluir:
 
 Desktop:
 
-> Windows 11
-> 
-> Google Chrome
-> 
-> Rede Wi-Fi
+- Windows 11 
+- Google Chrome
+- Rede Wi-Fi
 
 Mobile:
 
-> Samsung Galaxy Note 20
-> 
-> Android 13
-> 
-> Rede 4G
+- Samsung Galaxy Note 20
+- Android 13
+- Rede 4G
 
 ---
 
@@ -128,11 +124,11 @@ O **resultado atual** descreve o que realmente aconteceu após executar o teste.
 
 Ele é registrado após a execução do caso de teste e comparado com o resultado esperado.
 
-> Usuário é redirecionado para o feed de notícias
+- Usuário é redirecionado para o feed de notícias
 
 Resultado atual:
 
-> Usuário foi redirecionado corretamente para o feed de notícias
+- Usuário foi redirecionado corretamente para o feed de notícias
 
 ---
 
