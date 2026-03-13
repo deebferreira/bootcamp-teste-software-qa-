@@ -4,7 +4,7 @@ O **Teste de Pares (Pairwise Testing)**, também conhecido como **All-Pairs Test
 
 A ideia principal é:
 
-> Garantir que todas as combinações possíveis entre **pares de variáveis** sejam testadas pelo menos uma vez.
+Garantir que todas as combinações possíveis entre **pares de variáveis** sejam testadas pelo menos uma vez.
 
 ---
 
