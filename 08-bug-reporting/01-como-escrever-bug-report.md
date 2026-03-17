@@ -162,3 +162,8 @@ Página de login demora mais de 10 segundos para carregar.
 
 ---
 
+# 🎯 Conclusão
+
+Um bom Bug Report é essencial para garantir que os defeitos sejam compreendidos e corrigidos de forma eficiente.
+
+Relatórios claros, objetivos e bem estruturados facilitam a comunicação entre QA e desenvolvedores, contribuindo diretamente para a qualidade do software.
