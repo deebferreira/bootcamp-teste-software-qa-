@@ -116,52 +116,6 @@ A prioridade define **o impacto do bug no sistema**.
 
 ---
 
-# 🧩 Tipos de Defeitos
-
-Os defeitos podem ser classificados de acordo com a sua natureza.
-
----
-
-## 1️⃣ Defeito Funcional
-
-Ocorre quando uma funcionalidade do sistema **não funciona como deveria**.
-
-### Exemplo
-
-Usuário não consegue realizar login mesmo inserindo credenciais válidas.
-
----
-
-## 2️⃣ Defeito Visual
-
-Relacionado à interface do usuário (UI).
-
-### Exemplo
-
-Botão de login está desalinhado ou sobreposto a outros elementos da tela.
-
----
-
-## 3️⃣ Defeito de Conteúdo
-
-Relacionado a erros de texto.
-
-### Exemplo
-
-Mensagem exibida com erro de ortografia: "Senah incorreta".
-
----
-
-## 4️⃣ Defeito de Performance
-
-Relacionado ao desempenho do sistema.
-
-### Exemplo
-
-Página de login demora mais de 10 segundos para carregar.
-
----
-
 # 🎯 Conclusão
 
 Um bom Bug Report é essencial para garantir que os defeitos sejam compreendidos e corrigidos de forma eficiente.
