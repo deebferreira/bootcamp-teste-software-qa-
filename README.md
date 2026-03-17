@@ -29,3 +29,7 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 - [O Que São Casos de Teste](06-como-escrever-casos-de-testes/01-o-que-são-casos-de-teste.md)
 - [Como Esrecever Casos de Teste](06-como-escrever-casos-de-testes/02-escrevendo-casos-de-teste.md)
 - [Caso de Teste - Facebook (Google Sheets)](06-como-escrever-casos-de-testes/03-caso-de-teste-facebook-google-sheets.md)
+
+### 7️⃣ Bug Report (Relatório de Defeitos)
+- [Como Escrever um Bug Report (Relatório de Defeitos)](08-bug-reporting-(relatorio-de-defeitos)/01-como-escrever-bug-report.md)
+- [Ciclo de Defeitos (Bug Life Cycle)](08-bug-reporting-(relatorio-de-defeitos)/02-ciclo-de-defeitos.md)
