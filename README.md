@@ -30,6 +30,14 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 - [Como Esrecever Casos de Teste](06-como-escrever-casos-de-testes/02-escrevendo-casos-de-teste.md)
 - [Caso de Teste - Facebook (Google Sheets)](06-como-escrever-casos-de-testes/03-caso-de-teste-facebook-google-sheets.md)
 
-### 7️⃣ Bug Report (Relatório de Defeitos)
-- [Como Escrever um Bug Report (Relatório de Defeitos)](08-bug-reporting-(relatorio-de-defeitos)/01-como-escrever-bug-report.md)
-- [Ciclo de Defeitos (Bug Life Cycle)](08-bug-reporting-(relatorio-de-defeitos)/02-ciclo-de-defeitos.md)
+### 7️⃣ Casos de Testes com Zephyr-Scale
+- [Gerenciamento de Testes - Zephyr Scale(Jira)](07-casos-de-teste-usando-o-zephyr-scale/01-gerenciamento-de-testes-com-zephyr-scale(Jira).md)
+
+## 8️⃣ Bug Reporting (Relatório de Defeitos)
+- [Como escrever um Bug Report](08-bug-reporting-(relatorio-de-defeitos)/01-como-escrever-bug-report.md)  
+- [Tipos de Defeitos](08-bug-reporting-(relatorio-de-defeitos)/02-tipos-de-defeitos.md)  
+- [Ciclo de Defeitos](08-bug-reporting-(relatorio-de-defeitos)/03-ciclo-de-defeitos.md)  
+
+## 9️⃣ Documentação de Testes
+
+- [Plano de Teste (Test Plan)](09-documentacao-de-testes/01-plano-de-teste.md)
