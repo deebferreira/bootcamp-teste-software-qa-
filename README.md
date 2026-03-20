@@ -41,3 +41,4 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 ## 9️⃣ Documentação de Testes
 
 - [Plano de Teste (Test Plan)](09-documentacao-de-testes/01-plano-de-teste.md)
+- [Relatório de Progresso de Teste](09-documentacao-de-testes/02-relatorio-de-progresso-de-teste.md)
