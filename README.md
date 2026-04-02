@@ -34,7 +34,7 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 - [Gerenciamento de Testes - Zephyr Scale(Jira)](07-casos-de-teste-usando-o-zephyr-scale/01-gerenciamento-de-testes-com-zephyr-scale(Jira).md)
 
 ## 8️⃣ Bug Reporting (Relatório de Defeitos)
-- [Como escrever um Bug Report](08-bug-reporting-(relatorio-de-defeitos)/01-como-escrever-bug-report.md)  
+- [Como Escrever um Bug Report](08-bug-reporting-(relatorio-de-defeitos)/01-como-escrever-bug-report.md)  
 - [Tipos de Defeitos](08-bug-reporting-(relatorio-de-defeitos)/02-tipos-de-defeitos.md)  
 - [Ciclo de Defeitos](08-bug-reporting-(relatorio-de-defeitos)/03-ciclo-de-defeitos.md)  
 
@@ -45,4 +45,4 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 
 ## 🔟 Metodologias Ágeis
 
-- [Introdução sobre Metodologias Ágeis - Scrum e Kanban](10-metodologias-ageis/01-introducao-sobre-metodologias-ageis-scrum-kanban.md)
+- [Introdução Sobre Metodologias Ágeis - Scrum e Kanban](10-metodologias-ageis/01-introducao-sobre-metodologias-ageis-scrum-kanban.md)
