@@ -42,3 +42,7 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 
 - [Plano de Teste (Test Plan)](09-documentacao-de-testes/01-plano-de-teste.md)
 - [Relatório de Progresso de Teste](09-documentacao-de-testes/02-relatorio-de-progresso-de-teste.md)
+
+## 🔟 Metodologias Ágeis
+
+- [Introdução sobre Metodologias Ágeis - Scrum e Kanban](10-metodologias-ageis/01-introducao-sobre-metodologias-ageis-scrum-kanban.md)
