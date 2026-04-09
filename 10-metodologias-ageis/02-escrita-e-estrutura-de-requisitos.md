@@ -1,4 +1,14 @@
-# 👥 Equipes Ágeis
+# ✍️ Escrita e Estrutura de Requisitos
+
+Este tópico aborda como os requisitos são definidos e organizados dentro de um contexto ágil.
+
+Aqui são apresentados conceitos fundamentais como **User Stories, INVEST e BDD**, que ajudam a garantir que os requisitos sejam claros, bem estruturados e testáveis.
+
+Além disso, são exploradas as formas de organização desses requisitos, como **épicos e temas**, permitindo uma melhor gestão do backlog e facilitando o trabalho da equipe de desenvolvimento e QA.
+
+---
+
+## 👥 Equipes Ágeis
 
 Equipes ágeis são geralmente **multidisciplinares** e auto-organizadas.
 
