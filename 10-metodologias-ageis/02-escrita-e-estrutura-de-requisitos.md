@@ -27,7 +27,7 @@ O QA não é apenas um testador — ele participa de todo o processo.
 
 ### Responsabilidades:
 
-- Participar do refinement e planejamento  
+- Participar do refinamento e planejamento  
 - Escrever cenários de teste  
 - Executar testes manuais e automatizados  
 - Reportar bugs  
