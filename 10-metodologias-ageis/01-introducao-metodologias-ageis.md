@@ -1,4 +1,4 @@
-01-introducao-metodologias-ageis.md# 🚀 Metodologias Ágeis
+# 🚀 Metodologias Ágeis
 
 As metodologias ágeis são abordagens de desenvolvimento de software que priorizam **flexibilidade, colaboração e entrega contínua de valor** ao cliente.
 
