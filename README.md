@@ -45,4 +45,6 @@ Este repositório reúne minhas anotações e estudos realizados durante o **Boo
 
 ## 🔟 Metodologias Ágeis
 
-- [Introdução Sobre Metodologias Ágeis - Scrum e Kanban](10-metodologias-ageis/01-introducao-sobre-metodologias-ageis-scrum-kanban.md)
+- [Introdução Sobre Metodologias Ágeis](10-metodologias-ageis/01-introducao-metodologias-ageis.md)
+- [Escrita e Estrutura de Requisitos](10-metodologias-ageis/02-escrita-e-estrutura-de-requisitos.md)
+- [Frameworks Ágeis - Scrum e Kanban](10-metodologias-ageis/03-frameworks-ageis-scrum-kanban.md)
